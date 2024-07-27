@@ -13,7 +13,7 @@ function verifiPalindroma(word){
     
     for( let i=0; i< word.lenght; i++){
         
-        else (word[i] != word[k] K>i){
+        if (word[i] != word[k] K>i){
             console.log('i è diverso da k')
             notify = 'la parola non è palindroma'
         }
